@@ -1,0 +1,1131 @@
+Nombre: Pedro
+Apellido: Fernandez
+Edad: 11
+Fecha de nacimiento: 01/01/1980
+DNI: 10000050
+Celular: 900029528
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 57
+Fecha de nacimiento: 01/01/1954
+DNI: 10000015
+Celular: 900009797
+-------------------------
+Nombre: Carlos
+Apellido: Perez
+Edad: 37
+Fecha de nacimiento: 01/01/1997
+DNI: 10003408
+Celular: 900012760
+-------------------------
+Nombre: Jose
+Apellido: Perez
+Edad: 58
+Fecha de nacimiento: 01/01/1936
+DNI: 10018444
+Celular: 900006396
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 69
+Fecha de nacimiento: 01/01/1947
+DNI: 10004412
+Celular: 900008697
+-------------------------
+Nombre: Luisa
+Apellido: Perez
+Edad: 94
+Fecha de nacimiento: 01/01/1946
+DNI: 10004343
+Celular: 900024132
+-------------------------
+Nombre: Maria
+Apellido: Rodriguez
+Edad: 35
+Fecha de nacimiento: 01/01/1913
+DNI: 10021323
+Celular: 900022778
+-------------------------
+Nombre: Luisa
+Apellido: Fernandez
+Edad: 72
+Fecha de nacimiento: 01/01/1984
+DNI: 10002287
+Celular: 900029972
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 27
+Fecha de nacimiento: 01/01/1990
+DNI: 10015619
+Celular: 900019410
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 54
+Fecha de nacimiento: 01/01/197
+DNI: 10012893
+Celular: 900011835
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 64
+Fecha de nacimiento: 01/01/1988
+DNI: 10019703
+Celular: 900022170
+-------------------------
+Nombres: rosa
+Apellidos: chavez
+DNI: 111111222
+Telefono: 988770005
+Edad: 32
+Tarjeta de Credito: 1112224
+
+Tipo pasaje: 2
+Promocion --> NO
+Nombre: Ana
+Apellido: Gomez
+Edad: 35
+Fecha de nacimiento: 01/01/1953
+DNI: 10022948
+Celular: 900024461
+-------------------------
+
+Nombres: mariana
+Apellidos: mora
+DNI: 0966677700
+Telefono: 998000777
+Edad: 29
+Tarjeta de Credito: 11100099
+
+Tipo pasaje: 2
+Promocion --> NO
+Nombre: Luisa
+Apellido: Rodriguez
+Edad: 11
+Fecha de nacimiento: 01/01/1971
+DNI: 10013057
+Celular: 900025001
+-------------------------
+
+Nombres: mariangela
+Apellidos: escobar
+DNI: 99900088
+Telefono: 99344344
+Edad: 27
+Tarjeta de Credito: 22211100
+
+Tipo pasaje: 2
+Promocion --> NO
+Nombre: Luisa
+Apellido: Gomez
+Edad: 55
+Fecha de nacimiento: 01/01/1941
+DNI: 10001136
+Celular: 900018091
+-------------------------
+
+Nombres: eliana
+Apellidos: espinoza
+DNI: 22222200
+Telefono: 99922211
+Edad: 23
+Tarjeta de Credito: 22200077
+
+Tipo pasaje: 2
+Promocion --> NO
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 9
+Fecha de nacimiento: 01/01/1999
+DNI: 10023541
+Celular: 900027149
+-------------------------
+
+Nombres: adriana
+Apellidos: vasquez
+DNI: 111555666
+Telefono: 88890992
+Edad: 33
+Tarjeta de Credito: 222666666
+
+Tipo pasaje: 1
+Promocion --> NO
+Nombre: Carlos
+Apellido: Garcia
+Edad: 64
+Fecha de nacimiento: 01/01/1925
+DNI: 10032110
+Celular: 900026196
+-------------------------
+
+Nombres: cristina
+Apellidos: cuadros
+DNI: 7776665558
+Telefono: 0999888776
+Edad: 27
+Tarjeta de Credito: 222666775
+
+Tipo pasaje: 2
+Promocion --> NO
+Nombre: Maria
+Apellido: Fernandez
+Edad: 28
+Fecha de nacimiento: 01/01/1985
+DNI: 10018640
+Celular: 900002092
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 38
+Fecha de nacimiento: 01/01/1957
+DNI: 10022575
+Celular: 900013869
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 84
+Fecha de nacimiento: 01/01/1914
+DNI: 10018226
+Celular: 900029169
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 44
+Fecha de nacimiento: 01/01/1982
+DNI: 10013750
+Celular: 900008578
+-------------------------
+Nombre: Luisa
+Apellido: Gomez
+Edad: 62
+Fecha de nacimiento: 01/01/1944
+DNI: 10022595
+Celular: 900011419
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 16
+Fecha de nacimiento: 01/01/1929
+DNI: 10028354
+Celular: 900011415
+-------------------------
+Nombre: Carlos
+Apellido: Gomez
+Edad: 59
+Fecha de nacimiento: 01/01/1981
+DNI: 10026392
+Celular: 900021298
+-------------------------
+Nombre: Carlos
+Apellido: Lopez
+Edad: 4
+Fecha de nacimiento: 01/01/1945
+DNI: 10018257
+Celular: 900025493
+-------------------------
+Nombre: Ana
+Apellido: Garcia
+Edad: 20
+Fecha de nacimiento: 01/01/1939
+DNI: 10001918
+Celular: 900016550
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 42
+Fecha de nacimiento: 01/01/1928
+DNI: 10022202
+Celular: 900003277
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 95
+Fecha de nacimiento: 01/01/1988
+DNI: 10015191
+Celular: 900020199
+-------------------------
+Nombre: Luisa
+Apellido: Garcia
+Edad: 59
+Fecha de nacimiento: 01/01/1921
+DNI: 10030703
+Celular: 900017759
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 7
+Fecha de nacimiento: 01/01/1975
+DNI: 10003969
+Celular: 900021550
+-------------------------
+Nombre: Ana
+Apellido: Gomez
+Edad: 91
+Fecha de nacimiento: 01/01/1995
+DNI: 10024185
+Celular: 900023712
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 39
+Fecha de nacimiento: 01/01/1965
+DNI: 10013663
+Celular: 900000555
+-------------------------
+Nombre: Jose
+Apellido: Gomez
+Edad: 89
+Fecha de nacimiento: 01/01/1946
+DNI: 10029737
+Celular: 900004479
+-------------------------
+Nombre: Luisa
+Apellido: Rodriguez
+Edad: 13
+Fecha de nacimiento: 01/01/1935
+DNI: 10006594
+Celular: 900031687
+-------------------------
+Nombre: Pedro
+Apellido: Lopez
+Edad: 40
+Fecha de nacimiento: 01/01/1991
+DNI: 10011366
+Celular: 900020854
+-------------------------
+Nombre: Ana
+Apellido: Gomez
+Edad: 67
+Fecha de nacimiento: 01/01/1947
+DNI: 10016139
+Celular: 900010021
+-------------------------
+Nombre: Carlos
+Apellido: Gomez
+Edad: 87
+Fecha de nacimiento: 01/01/1936
+DNI: 10002255
+Celular: 900012994
+-------------------------
+Nombre: Maria
+Apellido: Rodriguez
+Edad: 32
+Fecha de nacimiento: 01/01/1928
+DNI: 10012087
+Celular: 900026665
+-------------------------
+Nombre: Jose
+Apellido: Perez
+Edad: 35
+Fecha de nacimiento: 01/01/1938
+DNI: 10026378
+Celular: 900006925
+-------------------------
+Nombre: Luisa
+Apellido: Perez
+Edad: 17
+Fecha de nacimiento: 01/01/1928
+DNI: 10021754
+Celular: 900018430
+-------------------------
+Nombre: Luisa
+Apellido: Gomez
+Edad: 89
+Fecha de nacimiento: 01/01/1947
+DNI: 10018391
+Celular: 900011792
+-------------------------
+Nombre: Carlos
+Apellido: Perez
+Edad: 68
+Fecha de nacimiento: 01/01/1940
+DNI: 10029899
+Celular: 900013010
+-------------------------
+Nombre: Jose
+Apellido: Fernandez
+Edad: 5
+Fecha de nacimiento: 01/01/1943
+DNI: 10011656
+Celular: 900032508
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 16
+Fecha de nacimiento: 01/01/194
+DNI: 10023164
+Celular: 900000958
+-------------------------
+Nombre: Ana
+Apellido: Rodriguez
+Edad: 20
+Fecha de nacimiento: 01/01/1950
+DNI: 10000080
+Celular: 900013957
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 55
+Fecha de nacimiento: 01/01/1964
+DNI: 10009763
+Celular: 900026956
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 3
+Fecha de nacimiento: 01/01/1969
+DNI: 10023026
+Celular: 900031829
+-------------------------
+Nombre: Carlos
+Apellido: Garcia
+Edad: 13
+Fecha de nacimiento: 01/01/1971
+DNI: 10021764
+Celular: 900017205
+-------------------------
+Nombre: Carlos
+Apellido: Rodriguez
+Edad: 9
+Fecha de nacimiento: 01/01/1976
+DNI: 10019309
+Celular: 900005289
+-------------------------
+Nombre: Luisa
+Apellido: Fernandez
+Edad: 76
+Fecha de nacimiento: 01/01/1974
+DNI: 10003452
+Celular: 900019370
+-------------------------
+Nombre: Luisa
+Apellido: Perez
+Edad: 77
+Fecha de nacimiento: 01/01/191
+DNI: 10013491
+Celular: 900019503
+-------------------------
+Nombre: Maria
+Apellido: Fernandez
+Edad: 48
+Fecha de nacimiento: 01/01/1952
+DNI: 10012860
+Celular: 900028575
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 79
+Fecha de nacimiento: 01/01/193
+DNI: 10020088
+Celular: 900029657
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 35
+Fecha de nacimiento: 01/01/1998
+DNI: 10005494
+Celular: 900025595
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 33
+Fecha de nacimiento: 01/01/1951
+DNI: 10020650
+Celular: 900003253
+-------------------------
+Nombre: Carlos
+Apellido: Rodriguez
+Edad: 28
+Fecha de nacimiento: 01/01/197
+DNI: 10025423
+Celular: 900025188
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 43
+Fecha de nacimiento: 01/01/194
+DNI: 10026616
+Celular: 900022479
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 36
+Fecha de nacimiento: 01/01/1931
+DNI: 10011746
+Celular: 900014622
+-------------------------
+Nombre: Ana
+Apellido: Rodriguez
+Edad: 48
+Fecha de nacimiento: 01/01/1996
+DNI: 10011539
+Celular: 900028161
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 42
+Fecha de nacimiento: 01/01/1914
+DNI: 10009439
+Celular: 900003378
+-------------------------
+Nombre: Pedro
+Apellido: Gomez
+Edad: 39
+Fecha de nacimiento: 01/01/1966
+DNI: 10024595
+Celular: 900013804
+-------------------------
+Nombre: Luisa
+Apellido: Lopez
+Edad: 12
+Fecha de nacimiento: 01/01/1984
+DNI: 10016036
+Celular: 900013533
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 5
+Fecha de nacimiento: 01/01/1983
+DNI: 10015967
+Celular: 900028968
+-------------------------
+Nombre: Pedro
+Apellido: Gomez
+Edad: 74
+Fecha de nacimiento: 01/01/1986
+DNI: 10030492
+Celular: 900015698
+-------------------------
+Nombre: Luisa
+Apellido: Rodriguez
+Edad: 12
+Fecha de nacimiento: 01/01/1990
+DNI: 10012249
+Celular: 900002428
+-------------------------
+Nombre: Luisa
+Apellido: Fernandez
+Edad: 1
+Fecha de nacimiento: 01/01/1952
+DNI: 10022495
+Celular: 900021790
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 72
+Fecha de nacimiento: 01/01/1945
+DNI: 10009094
+Celular: 900015020
+-------------------------
+Nombre: Carlos
+Apellido: Rodriguez
+Edad: 69
+Fecha de nacimiento: 01/01/197
+DNI: 10011480
+Celular: 900009603
+-------------------------
+Nombre: Ana
+Apellido: Rodriguez
+Edad: 49
+Fecha de nacimiento: 01/01/1953
+DNI: 10011973
+Celular: 900031402
+-------------------------
+Nombre: Maria
+Apellido: Lopez
+Edad: 65
+Fecha de nacimiento: 01/01/1966
+DNI: 10030778
+Celular: 900018267
+-------------------------
+Nombre: Pedro
+Apellido: Lopez
+Edad: 5
+Fecha de nacimiento: 01/01/1950
+DNI: 10003631
+Celular: 900016367
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 70
+Fecha de nacimiento: 01/01/190
+DNI: 10025208
+Celular: 900014042
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 69
+Fecha de nacimiento: 01/01/1941
+DNI: 10012438
+Celular: 900030968
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 28
+Fecha de nacimiento: 01/01/1953
+DNI: 10015456
+Celular: 900016479
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 32
+Fecha de nacimiento: 01/01/192
+DNI: 10006897
+Celular: 900016208
+-------------------------
+Nombre: Luisa
+Apellido: Gomez
+Edad: 65
+Fecha de nacimiento: 01/01/191
+DNI: 10031736
+Celular: 900006864
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 71
+Fecha de nacimiento: 01/01/1963
+DNI: 10026264
+Celular: 900009437
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 5
+Fecha de nacimiento: 01/01/1919
+DNI: 10018770
+Celular: 900003335
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 82
+Fecha de nacimiento: 01/01/1966
+DNI: 10024115
+Celular: 900030408
+-------------------------
+
+Nombres: Dante
+Apellidos: Florez
+DNI: 34567
+Telefono: 4000
+Edad: 30
+Tarjeta de Credito: 12456
+
+Tipo pasaje: 1
+
+Promocion --> SI
+Codigo de promocion --> 567890
+Nombre: Jose
+Apellido: Gomez
+Edad: 92
+Fecha de nacimiento: 01/01/1942
+DNI: 10019066
+Celular: 900004679
+-------------------------
+Nombre: Carlos
+Apellido: Lopez
+Edad: 98
+Fecha de nacimiento: 01/01/1949
+DNI: 10015349
+Celular: 900010906
+-------------------------
+Nombre: Carlos
+Apellido: Gomez
+Edad: 36
+Fecha de nacimiento: 01/01/1943
+DNI: 10009876
+Celular: 900013479
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 95
+Fecha de nacimiento: 01/01/1977
+DNI: 10031915
+Celular: 900003861
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 93
+Fecha de nacimiento: 01/01/1930
+DNI: 10014304
+Celular: 900014287
+-------------------------
+Nombre: Maria
+Apellido: Garcia
+Edad: 83
+Fecha de nacimiento: 01/01/1982
+DNI: 10004551
+Celular: 900016724
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 85
+Fecha de nacimiento: 01/01/1939
+DNI: 10009393
+Celular: 900023223
+-------------------------
+Nombre: Carlos
+Apellido: Rodriguez
+Edad: 82
+Fecha de nacimiento: 01/01/1933
+DNI: 10011779
+Celular: 900017806
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 13
+Fecha de nacimiento: 01/01/1985
+DNI: 10019008
+Celular: 900018889
+-------------------------
+Nombre: Jose
+Apellido: Fernandez
+Edad: 47
+Fecha de nacimiento: 01/01/1942
+DNI: 10023849
+Celular: 900025388
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 27
+Fecha de nacimiento: 01/01/1925
+DNI: 10021611
+Celular: 900031477
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 96
+Fecha de nacimiento: 01/01/1934
+DNI: 10032350
+Celular: 900007102
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 78
+Fecha de nacimiento: 01/01/1960
+DNI: 10018742
+Celular: 900013869
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 11
+Fecha de nacimiento: 01/01/1910
+DNI: 10018042
+Celular: 900005609
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 20
+Fecha de nacimiento: 01/01/1923
+DNI: 10011938
+Celular: 900017253
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 18
+Fecha de nacimiento: 01/01/197
+DNI: 10027094
+Celular: 900027679
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 51
+Fecha de nacimiento: 01/01/1974
+DNI: 10019166
+Celular: 900018336
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 98
+Fecha de nacimiento: 01/01/1921
+DNI: 10019659
+Celular: 900007367
+-------------------------
+Nombre: Pedro
+Apellido: Gomez
+Edad: 73
+Fecha de nacimiento: 01/01/1976
+DNI: 10008713
+Celular: 900012512
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 10
+Fecha de nacimiento: 01/01/1985
+DNI: 10019452
+Celular: 900020905
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 56
+Fecha de nacimiento: 01/01/1992
+DNI: 10007875
+Celular: 900002354
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 35
+Fecha de nacimiento: 01/01/1949
+DNI: 10028367
+Celular: 900008310
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 55
+Fecha de nacimiento: 01/01/1972
+DNI: 10000302
+Celular: 900012912
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 85
+Fecha de nacimiento: 01/01/1975
+DNI: 10022687
+Celular: 900024421
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 2
+Fecha de nacimiento: 01/01/1917
+DNI: 10023959
+Celular: 900005052
+-------------------------
+Nombre: Carlos
+Apellido: Rodriguez
+Edad: 87
+Fecha de nacimiento: 01/01/1926
+DNI: 10018980
+Celular: 900029424
+-------------------------
+Nombre: Maria
+Apellido: Gomez
+Edad: 62
+Fecha de nacimiento: 01/01/1923
+DNI: 10028032
+Celular: 900018726
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 58
+Fecha de nacimiento: 01/01/1982
+DNI: 10014562
+Celular: 900027391
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 64
+Fecha de nacimiento: 01/01/1999
+DNI: 10030843
+Celular: 900017776
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 48
+Fecha de nacimiento: 01/01/194
+DNI: 10002078
+Celular: 900014117
+-------------------------
+Nombre: Maria
+Apellido: Garcia
+Edad: 63
+Fecha de nacimiento: 01/01/1969
+DNI: 10003271
+Celular: 900011409
+-------------------------
+
+Nombres: Flor
+Apellidos: 345
+DNI: 34
+Telefono: 34
+Edad: 34
+Tarjeta de Credito: 34
+
+Tipo pasaje: 1
+
+Promocion --> SI
+Codigo de promocion --> 455666
+Nombre: Ana
+Apellido: Fernandez
+Edad: 58
+Fecha de nacimiento: 01/01/1915
+DNI: 10020814
+Celular: 900016418
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 17
+Fecha de nacimiento: 01/01/1955
+DNI: 10006299
+Celular: 900028463
+-------------------------
+Nombre: Luisa
+Apellido: Garcia
+Edad: 95
+Fecha de nacimiento: 01/01/1923
+DNI: 10021949
+Celular: 900027920
+-------------------------
+Nombre: Luisa
+Apellido: Garcia
+Edad: 44
+Fecha de nacimiento: 01/01/1981
+DNI: 10016269
+Celular: 900011263
+-------------------------
+Nombre: Pedro
+Apellido: Garcia
+Edad: 21
+Fecha de nacimiento: 01/01/1984
+DNI: 10022935
+Celular: 900005982
+-------------------------
+Nombre: Ana
+Apellido: Lopez
+Edad: 90
+Fecha de nacimiento: 01/01/1997
+DNI: 10024690
+Celular: 900009638
+-------------------------
+Nombre: Luisa
+Apellido: Garcia
+Edad: 89
+Fecha de nacimiento: 01/01/1939
+DNI: 10011920
+Celular: 900026563
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 64
+Fecha de nacimiento: 01/01/194
+DNI: 10020973
+Celular: 900015865
+-------------------------
+Nombre: Maria
+Apellido: Perez
+Edad: 62
+Fecha de nacimiento: 01/01/1989
+DNI: 10003361
+Celular: 900026291
+-------------------------
+Nombre: Carlos
+Apellido: Fernandez
+Edad: 0
+Fecha de nacimiento: 01/01/1951
+DNI: 10030656
+Celular: 900028864
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 54
+Fecha de nacimiento: 01/01/1957
+DNI: 10011220
+Celular: 900018302
+-------------------------
+Nombre: Pedro
+Apellido: Gomez
+Edad: 1
+Fecha de nacimiento: 01/01/1968
+DNI: 10020697
+Celular: 900012071
+-------------------------
+Nombre: Maria
+Apellido: Rodriguez
+Edad: 44
+Fecha de nacimiento: 01/01/1914
+DNI: 10012030
+Celular: 900006227
+-------------------------
+Nombre: Luisa
+Apellido: Lopez
+Edad: 7
+Fecha de nacimiento: 01/01/1917
+DNI: 10026486
+Celular: 900008392
+-------------------------
+Nombre: Luisa
+Apellido: Gomez
+Edad: 42
+Fecha de nacimiento: 01/01/1931
+DNI: 10003402
+Celular: 900021391
+-------------------------
+Nombre: Pedro
+Apellido: Rodriguez
+Edad: 36
+Fecha de nacimiento: 01/01/1920
+DNI: 10016103
+Celular: 900019901
+-------------------------
+Nombre: Jose
+Apellido: Perez
+Edad: 44
+Fecha de nacimiento: 01/01/1994
+DNI: 10004457
+Celular: 900016785
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 22
+Fecha de nacimiento: 01/01/1911
+DNI: 10010147
+Celular: 900032217
+-------------------------
+Nombre: Jose
+Apellido: Lopez
+Edad: 47
+Fecha de nacimiento: 01/01/1958
+DNI: 10032542
+Celular: 900009733
+-------------------------
+Nombre: Jose
+Apellido: Perez
+Edad: 74
+Fecha de nacimiento: 01/01/1988
+DNI: 10000760
+Celular: 900020563
+-------------------------
+Nombre: Carlos
+Apellido: Lopez
+Edad: 41
+Fecha de nacimiento: 01/01/1985
+DNI: 10017672
+Celular: 900001876
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 80
+Fecha de nacimiento: 01/01/1991
+DNI: 10006026
+Celular: 900031528
+-------------------------
+Nombre: Ana
+Apellido: Fernandez
+Edad: 16
+Fecha de nacimiento: 01/01/195
+DNI: 10015709
+Celular: 900011759
+-------------------------
+Nombre: Ana
+Apellido: Gomez
+Edad: 49
+Fecha de nacimiento: 01/01/1976
+DNI: 10024427
+Celular: 900011477
+-------------------------
+Nombre: Pedro
+Apellido: Lopez
+Edad: 69
+Fecha de nacimiento: 01/01/1931
+DNI: 10029131
+Celular: 900016080
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 36
+Fecha de nacimiento: 01/01/1997
+DNI: 10013275
+Celular: 900030161
+-------------------------
+Nombre: Pedro
+Apellido: Fernandez
+Edad: 49
+Fecha de nacimiento: 01/01/199
+DNI: 10030679
+Celular: 900000505
+-------------------------
+Nombre: Jose
+Apellido: Gomez
+Edad: 42
+Fecha de nacimiento: 01/01/1923
+DNI: 10003014
+Celular: 900026968
+-------------------------
+Nombre: Carlos
+Apellido: Gomez
+Edad: 50
+Fecha de nacimiento: 01/01/1977
+DNI: 10016908
+Celular: 900022769
+-------------------------
+Nombre: Ana
+Apellido: Lopez
+Edad: 61
+Fecha de nacimiento: 01/01/1982
+DNI: 10027095
+Celular: 900023574
+-------------------------
+Nombre: Carlos
+Apellido: Garcia
+Edad: 71
+Fecha de nacimiento: 01/01/1960
+DNI: 10000727
+Celular: 900013273
+-------------------------
+Nombre: Maria
+Apellido: Lopez
+Edad: 78
+Fecha de nacimiento: 01/01/1936
+DNI: 10027047
+Celular: 900003791
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 90
+Fecha de nacimiento: 01/01/1995
+DNI: 10030626
+Celular: 900028434
+-------------------------
+Nombre: Pedro
+Apellido: Perez
+Edad: 61
+Fecha de nacimiento: 01/01/1951
+DNI: 10026209
+Celular: 900026401
+-------------------------
+Nombre: Maria
+Apellido: Fernandez
+Edad: 13
+Fecha de nacimiento: 01/01/1961
+DNI: 10029157
+Celular: 900027348
+-------------------------
+Nombre: Ana
+Apellido: Lopez
+Edad: 32
+Fecha de nacimiento: 01/01/1918
+DNI: 10009021
+Celular: 900008525
+-------------------------
+Nombre: Jose
+Apellido: Garcia
+Edad: 63
+Fecha de nacimiento: 01/01/1969
+DNI: 10016249
+Celular: 900009608
+-------------------------
+Nombre: Jose
+Apellido: Gomez
+Edad: 48
+Fecha de nacimiento: 01/01/1968
+DNI: 10024039
+Celular: 900017054
+-------------------------
+Nombre: Maria
+Apellido: Lopez
+Edad: 21
+Fecha de nacimiento: 01/01/1952
+DNI: 10013086
+Celular: 900030284
+-------------------------
+
+Nombres: Flor
+Apellidos: Contreras
+DNI: 456
+Telefono: 45678
+Edad: 34
+Tarjeta de Credito: 23466
+
+Tipo pasaje: 1
+
+Promocion --> SI
+Codigo de promocion --> 233445

@@ -1,0 +1,5 @@
+
+Nombres: Flor
+Apellidos: Contreras
+DNI: 456
+Edad: 34
